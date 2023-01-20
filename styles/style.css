@@ -4,3 +4,7 @@
 .bikerz-zone-light-red{
 background-color: rgba(236, 92, 92, 0.425);
 }
+.btn-bz-danger{
+background-color: rgba(230, 149, 45, 0.562);
+color: antiquewhite;
+}
